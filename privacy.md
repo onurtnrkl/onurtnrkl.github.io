@@ -51,7 +51,8 @@ I value your trust in providing us your Personal Information, thus we are strivi
 **Links to Other Sites:** The Service may contain links to other sites and applications. If you click on a third-party link, you will be directed to that site. These external services are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites and mobile applications. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Changes to this Privacy Notice
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on <a href="/"> my website</a>.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. 
+**Last updated: February 10, 2019**
 <!-- When we do, we will inform you via email if you have signed up for our mailing list, or by posting a notification on the Service. -->
 
 ## How to contact us
