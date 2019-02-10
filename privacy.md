@@ -62,4 +62,5 @@ Please contact us if you have any questions about this privacy notice or the inf
 Please send an email to <a href="mailto:onurtnrkl@gmail.com">onurtnrkl@gmail.com<a>
 
 
-#### **Last updated: February 10, 2019**
+
+#### Last updated: February 10, 2019
