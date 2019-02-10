@@ -52,7 +52,6 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 ## Changes to this Privacy Notice
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. 
-**Last updated: February 10, 2019**
 <!-- When we do, we will inform you via email if you have signed up for our mailing list, or by posting a notification on the Service. -->
 
 ## How to contact us
@@ -61,3 +60,5 @@ Please contact us if you have any questions about this privacy notice or the inf
 **If you wish to contact us:**
 
 Please send an email to <a href="mailto:onurtnrkl@gmail.com">onurtnrkl@gmail.com<a>
+
+### **Last updated: February 10, 2019**
